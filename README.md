@@ -1,4 +1,6 @@
-# TokenizeArt — Build your own NFT
+# TokenizeArt — NFT Minting DApp
+
+An ERC-721 NFT project exploring original artwork, IPFS storage, verifiable ownership, and a planned wallet-connected minting interface.
 
 Planning scaffold for the 42 TokenizeArt project, subject v1.00. No NFT contract, artwork, deployment, mint, or bonus is implemented yet.
 
@@ -23,6 +25,6 @@ Working artwork title: **42 — First Light**. Artist login: **hkarrach**, infer
 
 ## Working rules
 
-Use test networks and test funds. Wallet signing remains with the user. Never commit credentials, private keys, recovery phrases, dependencies, or build artifacts. GitHub is a private working copy; school submission is a separate action.
+Use test networks and test funds. Wallet signing remains with the user. Never commit credentials, private keys, recovery phrases, dependencies, or build artifacts. This GitHub repository is the working copy; school submission is a separate action.
 
 This scaffold has no installation or execution commands yet. Add commands only when they work. Completion requires public deployment **and minting**, distributed image availability, display, owner verification, and complete documentation.

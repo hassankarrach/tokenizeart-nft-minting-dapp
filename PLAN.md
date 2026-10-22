@@ -22,7 +22,7 @@ Stack proposal: Solidity + pinned OpenZeppelin ERC-721, ethers + disposable loca
 
 - Preserve the provided subject verbatim with its version and text-extraction limitations.
 - Maintain mandatory/bonus distinctions and a requirement-to-evidence table.
-- Create a dedicated private GitHub working repository named tokenizeart when authenticated access is available. Keep it separate from Club42 and school submission.
+- Use the dedicated GitHub working repository hassankarrach/tokenizeart-nft-minting-dapp supplied by the user. Keep it separate from Club42 and school submission.
 - Confirm school login, artwork direction/title, and proposed one-edition mint policy before irreversible publication/signing. Do independent setup work while awaiting preferences.
 
 Exit: scaffold reviewed; requirements accounted for; proposed choices and remaining decisions visible. No claim of implementation completion.
@@ -110,9 +110,9 @@ Exit: tested bonus behavior and documented costs/limitations, without destabiliz
 ## 9. Current handoff
 
 Done: subject read completely; scaffold, requirements matrix and phased plan written.
-GitHub SSH authentication confirmed for hassankarrach. Repository-local commits use that username and GitHub noreply email. No authenticated repository-creation API/CLI connection is available yet; GitHub creation/push remains pending.
+GitHub SSH authentication confirmed for hassankarrach. Repository-local commits use that username and GitHub noreply email. User created and supplied https://github.com/hassankarrach/tokenizeart-nft-minting-dapp.git; use its SSH remote for publishing.
 
-Pending: GitHub connection for private repository creation, login/art direction confirmation, all implementation/testing/storage/deployment/minting/bonus work.
+Pending: login/art direction confirmation and all implementation/testing/storage/deployment/minting/bonus work.
 Next implementation action: set up pinned tooling and implement/test the minimal one-edition ERC-721 before adding UI.
 
 ## Primary references checked while planning
