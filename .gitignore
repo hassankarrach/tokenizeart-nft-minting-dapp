@@ -1,0 +1,12 @@
+node_modules/
+artifacts/
+cache/
+dist/
+coverage/
+.tools/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
