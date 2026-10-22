@@ -1,0 +1,48 @@
+{
+  "name": "42 — Blue Motion #10",
+  "description": "A dark-haired martial artist in a bright blue outfit performs an airborne fighting pose. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+  "image": "../artworks/branded/character-10-branded.png",
+  "artist": "hkarrach",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Determined"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Blue martial-arts outfit"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cream slip-on shoes"
+    },
+    {
+      "trait_type": "Appearance",
+      "value": "Dark swept hair"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunny 1337 campus courtyard"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "Solo airborne pose"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "hkarrach"
+    }
+  ]
+}

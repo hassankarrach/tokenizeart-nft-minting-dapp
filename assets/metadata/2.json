@@ -1,0 +1,48 @@
+{
+  "name": "42 — Shark After Hours #02",
+  "description": "A blue plush-like shark lounges beside three dark bottles and a stemmed glass. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+  "image": "../artworks/branded/character-02-branded.png",
+  "artist": "hkarrach",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Shark"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Three bottles and stemmed glass"
+    },
+    {
+      "trait_type": "Appearance",
+      "value": "Blue and cream"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunny 1337 campus courtyard"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "Lounging solo"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "hkarrach"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "42 — Campus Tiger #01",
+  "description": "A striped tiger sits with its forepaws resting on its knees in the sunny campus courtyard. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+  "image": "../artworks/branded/character-01-branded.png",
+  "artist": "hkarrach",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Tiger"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Unimpressed"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Appearance",
+      "value": "Orange and black stripes"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunny 1337 campus courtyard"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "Seated solo"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "hkarrach"
+    }
+  ]
+}

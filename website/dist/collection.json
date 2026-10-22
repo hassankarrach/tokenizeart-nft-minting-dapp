@@ -1,0 +1,496 @@
+{
+  "max_supply": 10,
+  "artist": "hkarrach",
+  "items": [
+    {
+      "name": "42 — Campus Tiger #01",
+      "description": "A striped tiger sits with its forepaws resting on its knees in the sunny campus courtyard. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+      "image": "assets/character-01-branded.png",
+      "artist": "hkarrach",
+      "attributes": [
+        {
+          "trait_type": "Character",
+          "value": "Tiger"
+        },
+        {
+          "trait_type": "Expression",
+          "value": "Unimpressed"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "None"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "None"
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "None"
+        },
+        {
+          "trait_type": "Appearance",
+          "value": "Orange and black stripes"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sunny 1337 campus courtyard"
+        },
+        {
+          "trait_type": "Composition",
+          "value": "Seated solo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "hkarrach"
+        }
+      ],
+      "token_id": 1
+    },
+    {
+      "name": "42 — Shark After Hours #02",
+      "description": "A blue plush-like shark lounges beside three dark bottles and a stemmed glass. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+      "image": "assets/character-02-branded.png",
+      "artist": "hkarrach",
+      "attributes": [
+        {
+          "trait_type": "Character",
+          "value": "Shark"
+        },
+        {
+          "trait_type": "Expression",
+          "value": "Relaxed"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "None"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "None"
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Three bottles and stemmed glass"
+        },
+        {
+          "trait_type": "Appearance",
+          "value": "Blue and cream"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sunny 1337 campus courtyard"
+        },
+        {
+          "trait_type": "Composition",
+          "value": "Lounging solo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "hkarrach"
+        }
+      ],
+      "token_id": 2
+    },
+    {
+      "name": "42 — Beanie Cat #03",
+      "description": "A fluffy ginger cat wears a green knitted beanie and a loose gray-blue tunic. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+      "image": "assets/character-03-branded.png",
+      "artist": "hkarrach",
+      "attributes": [
+        {
+          "trait_type": "Character",
+          "value": "Cat"
+        },
+        {
+          "trait_type": "Expression",
+          "value": "Gentle"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Gray-blue tunic"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "Green beanie"
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "None"
+        },
+        {
+          "trait_type": "Appearance",
+          "value": "Ginger and cream fur"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sunny 1337 campus courtyard"
+        },
+        {
+          "trait_type": "Composition",
+          "value": "Seated solo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "hkarrach"
+        }
+      ],
+      "token_id": 3
+    },
+    {
+      "name": "42 — Scooter Stallion #04",
+      "description": "A chestnut horse grips a pink scooter while wearing a matching floral helmet. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+      "image": "assets/character-04-branded.png",
+      "artist": "hkarrach",
+      "attributes": [
+        {
+          "trait_type": "Character",
+          "value": "Horse"
+        },
+        {
+          "trait_type": "Expression",
+          "value": "Alert"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "None"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "Pink floral helmet"
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Pink scooter"
+        },
+        {
+          "trait_type": "Appearance",
+          "value": "Chestnut coat with white forehead marking"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sunny 1337 campus courtyard"
+        },
+        {
+          "trait_type": "Composition",
+          "value": "Solo on scooter"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "hkarrach"
+        }
+      ],
+      "token_id": 4
+    },
+    {
+      "name": "42 — Sir Croaks #05",
+      "description": "A green frog sits in a wooden chair, dressed in a black coat, patterned waistcoat and white cravat. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+      "image": "assets/character-05-branded.png",
+      "artist": "hkarrach",
+      "attributes": [
+        {
+          "trait_type": "Character",
+          "value": "Frog"
+        },
+        {
+          "trait_type": "Expression",
+          "value": "Unimpressed"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Black formal coat and patterned waistcoat"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "None"
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Wooden chair and white cravat"
+        },
+        {
+          "trait_type": "Appearance",
+          "value": "Olive green skin"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sunny 1337 campus courtyard"
+        },
+        {
+          "trait_type": "Composition",
+          "value": "Seated solo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "hkarrach"
+        }
+      ],
+      "token_id": 5
+    },
+    {
+      "name": "42 — Webbed Chase #06",
+      "description": "A red-and-blue web-patterned dinosaur chases a matching masked superhero across the courtyard. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+      "image": "assets/character-06-branded.png",
+      "artist": "hkarrach",
+      "attributes": [
+        {
+          "trait_type": "Character",
+          "value": "Dinosaur and masked superhero"
+        },
+        {
+          "trait_type": "Expression",
+          "value": "Excited chase"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Red-and-blue web-patterned suits"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "Full-face superhero mask"
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Spider emblems"
+        },
+        {
+          "trait_type": "Appearance",
+          "value": "Red and blue"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sunny 1337 campus courtyard"
+        },
+        {
+          "trait_type": "Composition",
+          "value": "Running duo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "hkarrach"
+        }
+      ],
+      "token_id": 6
+    },
+    {
+      "name": "42 — Black Belt Bunny #07",
+      "description": "A golden rabbit in a white martial-arts uniform and black belt balances in a high side kick. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+      "image": "assets/character-07-branded.png",
+      "artist": "hkarrach",
+      "attributes": [
+        {
+          "trait_type": "Character",
+          "value": "Rabbit"
+        },
+        {
+          "trait_type": "Expression",
+          "value": "Focused"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "White martial-arts uniform"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "None"
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Black belt"
+        },
+        {
+          "trait_type": "Appearance",
+          "value": "Golden and cream fur"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sunny 1337 campus courtyard"
+        },
+        {
+          "trait_type": "Composition",
+          "value": "Solo side kick"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "hkarrach"
+        }
+      ],
+      "token_id": 7
+    },
+    {
+      "name": "42 — Tiny Truck Matriarch #08",
+      "description": "A stern older character in black clothing sits curled up in the yellow bed of a colorful toy dump truck. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+      "image": "assets/character-08-branded.png",
+      "artist": "hkarrach",
+      "attributes": [
+        {
+          "trait_type": "Character",
+          "value": "Human"
+        },
+        {
+          "trait_type": "Expression",
+          "value": "Stern"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Black robe"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "Black headscarf"
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Toy dump truck"
+        },
+        {
+          "trait_type": "Appearance",
+          "value": "Warm tan complexion"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sunny 1337 campus courtyard"
+        },
+        {
+          "trait_type": "Composition",
+          "value": "Solo in toy truck"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "hkarrach"
+        }
+      ],
+      "token_id": 8
+    },
+    {
+      "name": "42 — Baguette Striker #09",
+      "description": "A wide-eyed football character wears a navy Paris football kit and holds a long baguette. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+      "image": "assets/character-09-branded.png",
+      "artist": "hkarrach",
+      "attributes": [
+        {
+          "trait_type": "Character",
+          "value": "Human"
+        },
+        {
+          "trait_type": "Expression",
+          "value": "Wide-eyed smile"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Navy Paris football kit"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "None"
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Baguette and white wristband"
+        },
+        {
+          "trait_type": "Appearance",
+          "value": "Warm brown complexion"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sunny 1337 campus courtyard"
+        },
+        {
+          "trait_type": "Composition",
+          "value": "Standing solo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "hkarrach"
+        }
+      ],
+      "token_id": 9
+    },
+    {
+      "name": "42 — Blue Motion #10",
+      "description": "A dark-haired martial artist in a bright blue outfit performs an airborne fighting pose. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+      "image": "assets/character-10-branded.png",
+      "artist": "hkarrach",
+      "attributes": [
+        {
+          "trait_type": "Character",
+          "value": "Human"
+        },
+        {
+          "trait_type": "Expression",
+          "value": "Determined"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Blue martial-arts outfit"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "None"
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Cream slip-on shoes"
+        },
+        {
+          "trait_type": "Appearance",
+          "value": "Dark swept hair"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sunny 1337 campus courtyard"
+        },
+        {
+          "trait_type": "Composition",
+          "value": "Solo airborne pose"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "hkarrach"
+        }
+      ],
+      "token_id": 10
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "42 — Baguette Striker #09",
+  "description": "A wide-eyed football character wears a navy Paris football kit and holds a long baguette. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+  "image": "../artworks/branded/character-09-branded.png",
+  "artist": "hkarrach",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Wide-eyed smile"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Navy Paris football kit"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Baguette and white wristband"
+    },
+    {
+      "trait_type": "Appearance",
+      "value": "Warm brown complexion"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunny 1337 campus courtyard"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "Standing solo"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "hkarrach"
+    }
+  ]
+}

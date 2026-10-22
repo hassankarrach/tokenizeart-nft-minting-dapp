@@ -1,0 +1,48 @@
+{
+  "name": "42 — Sir Croaks #05",
+  "description": "A green frog sits in a wooden chair, dressed in a black coat, patterned waistcoat and white cravat. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+  "image": "../artworks/branded/character-05-branded.png",
+  "artist": "hkarrach",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Frog"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Unimpressed"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Black formal coat and patterned waistcoat"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wooden chair and white cravat"
+    },
+    {
+      "trait_type": "Appearance",
+      "value": "Olive green skin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunny 1337 campus courtyard"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "Seated solo"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "hkarrach"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "name": "TokenizeArt",
+  "status": "local_draft",
+  "max_supply": 10,
+  "token_ids": {
+    "first": 1,
+    "last": 10
+  },
+  "artist": "hkarrach",
+  "artist_confirmation_required": false,
+  "branding_overlay_pending": false,
+  "storage": "local_only",
+  "rarity_policy": {
+    "method": "Curated editorial tiers, retained by token ID from the prior draft. Not statistical rarity scores or value claims; final approval pending.",
+    "planned_counts": {
+      "Common": 6,
+      "Uncommon": 2,
+      "Rare": 1,
+      "Legendary": 1
+    }
+  },
+  "items": [
+    {
+      "token_id": 1,
+      "metadata": "metadata/1.json",
+      "artwork": "artworks/branded/character-01-branded.png",
+      "artwork_sha256": "bfcafd8d43aba3f2ab33718027bc101d10051485bf67854e7e23c5b37a0aed78",
+      "artwork_bytes": 2366744,
+      "width": 1254,
+      "height": 1254,
+      "rarity": "Common",
+      "status": "draft",
+      "source_artwork": "artworks/character-01-v1.png",
+      "source_artwork_sha256": "7c40556685c306064e95faa893f7942c627e1ebcb6405f87cf33cde0df74e974"
+    },
+    {
+      "token_id": 2,
+      "metadata": "metadata/2.json",
+      "artwork": "artworks/branded/character-02-branded.png",
+      "artwork_sha256": "456604dcbf57a7e8c29b35bb1ef60335114f8190ca45003600e836561406427e",
+      "artwork_bytes": 2407249,
+      "width": 1254,
+      "height": 1254,
+      "rarity": "Uncommon",
+      "status": "draft",
+      "source_artwork": "artworks/character-02-v1.png",
+      "source_artwork_sha256": "85528c6aa032fa9630252f9c771e23f6f22554fc05fd2fc529fd8e08b696a565"
+    },
+    {
+      "token_id": 3,
+      "metadata": "metadata/3.json",
+      "artwork": "artworks/branded/character-03-branded.png",
+      "artwork_sha256": "0d8fe2484cd2c4ced73b42c15bc9b0d39e9d440e2175aa8ca91d239e354cec94",
+      "artwork_bytes": 2343355,
+      "width": 1254,
+      "height": 1254,
+      "rarity": "Rare",
+      "status": "draft",
+      "source_artwork": "artworks/character-03-v1.png",
+      "source_artwork_sha256": "e6ff38dd28ba7d40ef4cb1836242f068538628549f29f9320d78254d8e98988a"
+    },
+    {
+      "token_id": 4,
+      "metadata": "metadata/4.json",
+      "artwork": "artworks/branded/character-04-branded.png",
+      "artwork_sha256": "8883140eb678ea3d261cf2598826eed81473f8efc9d1274a63a67dc71387db22",
+      "artwork_bytes": 2380920,
+      "width": 1254,
+      "height": 1254,
+      "rarity": "Uncommon",
+      "status": "draft",
+      "source_artwork": "artworks/character-04-v1.png",
+      "source_artwork_sha256": "95241acaf74b65f86ebc02d007d8b93cd2082b0cec8a61cd80723723f068bfe5"
+    },
+    {
+      "token_id": 5,
+      "metadata": "metadata/5.json",
+      "artwork": "artworks/branded/character-05-branded.png",
+      "artwork_sha256": "ce8fc109df3694bc1d1b2bc4aaeea8e9c145dee46c4f1829cef60fbdf1f6570b",
+      "artwork_bytes": 2231169,
+      "width": 1254,
+      "height": 1254,
+      "rarity": "Common",
+      "status": "draft",
+      "source_artwork": "artworks/character-05-v1.png",
+      "source_artwork_sha256": "733b472e51f7bf8bb8bc366837bb9350cbbf88def558e7f51ca51a7552745053"
+    },
+    {
+      "token_id": 6,
+      "metadata": "metadata/6.json",
+      "artwork": "artworks/branded/character-06-branded.png",
+      "artwork_sha256": "f2426992347a8ebeb572998d9452053c14fcb82276ef45351725eb90e4b12dfe",
+      "artwork_bytes": 2470707,
+      "width": 1254,
+      "height": 1254,
+      "rarity": "Legendary",
+      "status": "draft",
+      "source_artwork": "artworks/character-06-v1.png",
+      "source_artwork_sha256": "ed22bfcccc884748ba50b6159d5fdc915851405a6bcf4c828ce06fe83989e1aa"
+    },
+    {
+      "token_id": 7,
+      "metadata": "metadata/7.json",
+      "artwork": "artworks/branded/character-07-branded.png",
+      "artwork_sha256": "a548840027c967fdb5bbf699bdaff88dbb6c4c40279f7a451cfc71135023dbb4",
+      "artwork_bytes": 2402346,
+      "width": 1254,
+      "height": 1254,
+      "rarity": "Common",
+      "status": "draft",
+      "source_artwork": "artworks/character-07-v1.png",
+      "source_artwork_sha256": "00f596d2f8947cb3d8c6ab29b93c9da5de01176fef1023e763d717ba9459c68f"
+    },
+    {
+      "token_id": 8,
+      "metadata": "metadata/8.json",
+      "artwork": "artworks/branded/character-08-branded.png",
+      "artwork_sha256": "4d29421c1e487a4bc6fad9e979cf9d23258f98e57bb6be7487639e81b19accef",
+      "artwork_bytes": 2402686,
+      "width": 1254,
+      "height": 1254,
+      "rarity": "Common",
+      "status": "draft",
+      "source_artwork": "artworks/character-08-v1.png",
+      "source_artwork_sha256": "912120814f5c4534f65e537b8dabbb01cd24c43c0ad6a24b4cae72ecdb6fd437"
+    },
+    {
+      "token_id": 9,
+      "metadata": "metadata/9.json",
+      "artwork": "artworks/branded/character-09-branded.png",
+      "artwork_sha256": "a03a04af3a1279f1f9b57098919953cf1ebce8eedc06111041cb0a44c33ecbab",
+      "artwork_bytes": 2415834,
+      "width": 1254,
+      "height": 1254,
+      "rarity": "Common",
+      "status": "draft",
+      "source_artwork": "artworks/character-09-v1.png",
+      "source_artwork_sha256": "7dab08cec22ce6bbbe332c962525c15d5bb1c5a6b5191d48d11a0e5c296b362d"
+    },
+    {
+      "token_id": 10,
+      "metadata": "metadata/10.json",
+      "artwork": "artworks/branded/character-10-branded.png",
+      "artwork_sha256": "620c3b07642dcae3cdd697e84b2f4c0fbb361456ad1425a47e5a2ab8ee16f5f8",
+      "artwork_bytes": 2190761,
+      "width": 1254,
+      "height": 1254,
+      "rarity": "Common",
+      "status": "draft",
+      "source_artwork": "artworks/character-10-v1.png",
+      "source_artwork_sha256": "7dcf90bf5b91fef60f7754f354bfa81e84c1237c0d9b7bcecf4ec53a87a2cd05"
+    }
+  ],
+  "reserved_tokens": [],
+  "artwork_review": {
+    "date": "2026-10-22",
+    "reviewed_tokens": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "theme": "Playful 3D characters in a shared sunny 1337 campus courtyard",
+    "visible_42_present": true,
+    "notes": "All ten branded exports include the supplied white 42 logo at bottom-left. Original unbranded PNGs are preserved; IPFS publication remains pending."
+  },
+  "branding": {
+    "logo": "embedded in scripts/brand_artworks.py",
+    "color": "#ffffff",
+    "logo_sha256": "6e90ef23e3f7a649e966006d78921411a04893df3c031cc6a15d39f2d559ccca",
+    "position": "bottom-left",
+    "width_fraction": 0.12,
+    "margin_fraction": 0.03,
+    "script": "scripts/brand_artworks.py"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "42 — Beanie Cat #03",
+  "description": "A fluffy ginger cat wears a green knitted beanie and a loose gray-blue tunic. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+  "image": "../artworks/branded/character-03-branded.png",
+  "artist": "hkarrach",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Gentle"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Gray-blue tunic"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Green beanie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Appearance",
+      "value": "Ginger and cream fur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunny 1337 campus courtyard"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "Seated solo"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "hkarrach"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "42 — Scooter Stallion #04",
+  "description": "A chestnut horse grips a pink scooter while wearing a matching floral helmet. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+  "image": "../artworks/branded/character-04-branded.png",
+  "artist": "hkarrach",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Horse"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Pink floral helmet"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pink scooter"
+    },
+    {
+      "trait_type": "Appearance",
+      "value": "Chestnut coat with white forehead marking"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunny 1337 campus courtyard"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "Solo on scooter"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "hkarrach"
+    }
+  ]
+}

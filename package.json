@@ -1,0 +1,21 @@
+{
+  "name": "tokenizeart-contracts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "compile": "node deployment/compile.mjs",
+    "test": "node --test --test-isolation=none --test-concurrency=1 code/test/art42.test.mjs"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "5.4.0"
+  },
+  "devDependencies": {
+    "solc": "0.8.30",
+    "ethers": "6.15.0",
+    "ganache": "7.9.2"
+  }
+}

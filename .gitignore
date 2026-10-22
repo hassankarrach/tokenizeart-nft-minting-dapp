@@ -10,3 +10,6 @@ coverage/
 *.pem
 *.key
 .DS_Store
+
+# Generated IPFS upload staging duplicates canonical assets.
+assets/ipfs-upload/

@@ -1,0 +1,131 @@
+{
+  "generator": "built-in imagegen",
+  "base": "base.png",
+  "base_sha256": "09bbbab76d4ca152e5c0cc9a15cfa619e289cfa84adac169765c0f1d665bf9f2",
+  "items": [
+    {
+      "token_id": 1,
+      "source": "assets/artworks/character-01-v1.png",
+      "source_sha256": "7c40556685c306064e95faa893f7942c627e1ebcb6405f87cf33cde0df74e974",
+      "cutout": "assets/ui/characters/character-01-cutout.png",
+      "cutout_sha256": "0535250f62565ad31342b815fc7b6512a2e99a2b35bea45b539bf8bbb25d7221",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "transparent_pixels": 806936,
+      "partial_alpha_pixels": 764928
+    },
+    {
+      "token_id": 2,
+      "source": "assets/artworks/character-02-v1.png",
+      "source_sha256": "85528c6aa032fa9630252f9c771e23f6f22554fc05fd2fc529fd8e08b696a565",
+      "cutout": "assets/ui/characters/character-02-cutout.png",
+      "cutout_sha256": "c68af869bfab91f86794d18c075a27c45e96e2d52d4366daf433631267a36ec5",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "transparent_pixels": 914861,
+      "partial_alpha_pixels": 656542
+    },
+    {
+      "token_id": 3,
+      "source": "assets/artworks/character-03-v1.png",
+      "source_sha256": "e6ff38dd28ba7d40ef4cb1836242f068538628549f29f9320d78254d8e98988a",
+      "cutout": "assets/ui/characters/character-03-cutout.png",
+      "cutout_sha256": "8a2d34f8aa6284a81e4cf4ac4e78237206e4cfd349ef488bcd975fd4d4a25f5d",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "transparent_pixels": 1088395,
+      "partial_alpha_pixels": 483644
+    },
+    {
+      "token_id": 4,
+      "source": "assets/artworks/character-04-v1.png",
+      "source_sha256": "95241acaf74b65f86ebc02d007d8b93cd2082b0cec8a61cd80723723f068bfe5",
+      "cutout": "assets/ui/characters/character-04-cutout.png",
+      "cutout_sha256": "8687e8e34f93708fb7d38660be8607fb5f7b8e8cd1ae736359798168bbb24b00",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "transparent_pixels": 1200226,
+      "partial_alpha_pixels": 371380
+    },
+    {
+      "token_id": 5,
+      "source": "assets/artworks/character-05-v1.png",
+      "source_sha256": "733b472e51f7bf8bb8bc366837bb9350cbbf88def558e7f51ca51a7552745053",
+      "cutout": "assets/ui/characters/character-05-cutout.png",
+      "cutout_sha256": "dbc4bf5de184be9b40cb217d43d566991a28ad3854bb6021e5d568b4377e5d6f",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "transparent_pixels": 878211,
+      "partial_alpha_pixels": 693032
+    },
+    {
+      "token_id": 7,
+      "source": "assets/artworks/character-07-v1.png",
+      "source_sha256": "00f596d2f8947cb3d8c6ab29b93c9da5de01176fef1023e763d717ba9459c68f",
+      "cutout": "assets/ui/characters/character-07-cutout.png",
+      "cutout_sha256": "6ea711be11a5f1ce10ad8e25fd28954c5311eeab86edb69f155766407c66539e",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "transparent_pixels": 983571,
+      "partial_alpha_pixels": 588656
+    },
+    {
+      "token_id": 8,
+      "source": "assets/artworks/character-08-v1.png",
+      "source_sha256": "912120814f5c4534f65e537b8dabbb01cd24c43c0ad6a24b4cae72ecdb6fd437",
+      "cutout": "assets/ui/characters/character-08-cutout.png",
+      "cutout_sha256": "8c1a74b936ab9a2e7c4c6bd3da512100abdb031c659755a0235f62c5d559b397",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "transparent_pixels": 884730,
+      "partial_alpha_pixels": 686847
+    },
+    {
+      "token_id": 9,
+      "source": "assets/artworks/character-09-v1.png",
+      "source_sha256": "7dab08cec22ce6bbbe332c962525c15d5bb1c5a6b5191d48d11a0e5c296b362d",
+      "cutout": "assets/ui/characters/character-09-cutout.png",
+      "cutout_sha256": "b83c48d1da5cc75009ae34aa0ea6e015d973b4071ff70090e3d4828a8188c652",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "transparent_pixels": 1264951,
+      "partial_alpha_pixels": 306617
+    },
+    {
+      "token_id": 10,
+      "source": "assets/artworks/character-10-v1.png",
+      "source_sha256": "7dcf90bf5b91fef60f7754f354bfa81e84c1237c0d9b7bcecf4ec53a87a2cd05",
+      "cutout": "assets/ui/characters/character-10-cutout.png",
+      "cutout_sha256": "69df9690ff4e22e478689ccf7555de0fda0b93da7db45864a72e7781af8b4877",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "transparent_pixels": 1159752,
+      "partial_alpha_pixels": 410340
+    }
+  ],
+  "pending_tokens": [],
+  "original_image_fallbacks": [
+    {
+      "token_id": 6,
+      "reason": "Imagegen output moderation blocked extraction; user chose to retain original image."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "42 — Tiny Truck Matriarch #08",
+  "description": "A stern older character in black clothing sits curled up in the yellow bed of a colorful toy dump truck. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+  "image": "../artworks/branded/character-08-branded.png",
+  "artist": "hkarrach",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Stern"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Black robe"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Black headscarf"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Toy dump truck"
+    },
+    {
+      "trait_type": "Appearance",
+      "value": "Warm tan complexion"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunny 1337 campus courtyard"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "Solo in toy truck"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "hkarrach"
+    }
+  ]
+}

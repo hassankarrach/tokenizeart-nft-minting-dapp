@@ -1,0 +1,48 @@
+{
+  "name": "42 — Webbed Chase #06",
+  "description": "A red-and-blue web-patterned dinosaur chases a matching masked superhero across the courtyard. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+  "image": "../artworks/branded/character-06-branded.png",
+  "artist": "hkarrach",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Dinosaur and masked superhero"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Excited chase"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Red-and-blue web-patterned suits"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Full-face superhero mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Spider emblems"
+    },
+    {
+      "trait_type": "Appearance",
+      "value": "Red and blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunny 1337 campus courtyard"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "Running duo"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "hkarrach"
+    }
+  ]
+}

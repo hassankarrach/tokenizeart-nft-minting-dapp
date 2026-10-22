@@ -1,0 +1,48 @@
+{
+  "name": "42 — Black Belt Bunny #07",
+  "description": "A golden rabbit in a white martial-arts uniform and black belt balances in a high side kick. Part of TokenizeArt, a ten-piece playful 3D character collection set in a shared campus courtyard.",
+  "image": "../artworks/branded/character-07-branded.png",
+  "artist": "hkarrach",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Rabbit"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Focused"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "White martial-arts uniform"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Black belt"
+    },
+    {
+      "trait_type": "Appearance",
+      "value": "Golden and cream fur"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunny 1337 campus courtyard"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "Solo side kick"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "hkarrach"
+    }
+  ]
+}

@@ -7,10 +7,10 @@ Source: supplied TokenizeArt v1.00 text. No correction sheet for this project ha
 | M1 | Mandatory IV.1 | NFT representation contains a correctly displayed 42, with no insulting content | Reviewed original image and provenance | Pending |
 | M2 | Mandatory IV.1 | Image stored using distributed registry technology | IPFS image URI, CID, pin and independent retrieval checks | Pending |
 | M3 | Mandatory IV.2 | Root README explains choices and reasons | README expanded with final decisions | Scaffold |
-| M4 | Mandatory IV.2 | Respect chosen blockchain NFT standard | ERC-721 / ERC-165 behavior, source review, tests | Pending |
+| M4 | Mandatory IV.2 | Respect chosen blockchain NFT standard | ERC-721 / ERC-165 behavior, source review, tests | Implemented locally; public evidence pending |
 | M5 | Mandatory IV.2 | Manage metadata; artist is school login; name includes 42 and a title | JSON, tokenURI, retrieved metadata, login confirmation | Pending |
 | M6 | Mandatory IV.2 | Understand tools/language; no real money required | Testnet setup and defense walkthrough | Pending |
-| M7 | Mandatory IV.2 | Readable, commented code in root code/ | Contract, tests and code explanation | Pending |
+| M7 | Mandatory IV.2 | Readable, commented code in root code/ | Contract, tests and code explanation | Implemented |
 | M8 | Mandatory IV.2 | Minimal operations and security/privilege explanation | Mint/read/transfer demo, authorization and receiver failures | Pending |
 | M9 | Mandatory IV.3 | Deployment materials in separate root folder | deployment/ with reproducible working instructions | Scaffold |
 | M10 | Mandatory IV.3 | Mint on a public blockchain; record public address and network | Confirmed deployment/mint receipts, chain ID, contract, token ID | Pending |
