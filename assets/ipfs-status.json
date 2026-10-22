@@ -1,0 +1,78 @@
+{
+  "images_directory_cid": "bafybeigubjamznw3cys7nnwrq5sclsxo73n6im3vf6ax4lwpkambolapju",
+  "gateway": "https://beige-joint-horse-902.mypinata.cloud",
+  "status": "image_1_confirmed_by_user_all_files_independent_verification_pending",
+  "metadata_prepared": true,
+  "metadata_directory_cid": "bafybeia33nhwz2g4fut2iatgrsdzgbcg7pg5qh7ow7ry7gsp4aoq2s4ylu",
+  "verification_date": "2026-10-22",
+  "verification_notes": "User confirmed /images/1.png displays correctly. Uploaded root is the ipfs-upload wrapper directory. Metadata paths updated to /images/<id>.png; remaining files and remote byte hashes are not independently verified.",
+  "images_path": "images",
+  "candidate_contract_base_uri": "ipfs://bafybeia33nhwz2g4fut2iatgrsdzgbcg7pg5qh7ow7ry7gsp4aoq2s4ylu/",
+  "metadata_verification": {
+    "status": "token_1_confirmed_by_user_independent_all_file_verification_pending",
+    "attempts": [
+      {
+        "token_id": 1,
+        "verified": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "token_id": 2,
+        "verified": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "token_id": 3,
+        "verified": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "token_id": 4,
+        "verified": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "token_id": 5,
+        "verified": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "token_id": 6,
+        "verified": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "token_id": 7,
+        "verified": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "token_id": 8,
+        "verified": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "token_id": 9,
+        "verified": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "token_id": 10,
+        "verified": false,
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ],
+    "user_confirmed_token_1": {
+      "name": "42 \u2014 Campus Tiger #01",
+      "image": "ipfs://bafybeigubjamznw3cys7nnwrq5sclsxo73n6im3vf6ax4lwpkambolapju/images/1.png",
+      "artist": "hkarrach",
+      "evidence": "User pasted JSON retrieved from the replacement metadata CID in chat."
+    }
+  },
+  "superseded_metadata": [
+    {
+      "cid": "bafybeib6lyn3qw7ailwqwiq6r2ncwiuoexot4uoyytp4ls5ry7iusrcxai",
+      "reason": "User reported uploaded draft JSON contains local image paths; replaced with prepared metadata upload."
+    }
+  ]
+}

@@ -49,3 +49,13 @@ Record both CIDs, provider/pin status, file hashes and verification date. Downlo
 Keep the local originals and maintain at least one active pin; a second independent pin is useful redundancy. A CID identifies content but does not guarantee continued hosting. See [IPFS persistence](https://docs.ipfs.tech/concepts/persistence/). Changing a file changes its CID and the containing directory CID. SHA-256 file hashes are recorded separately and are not interchangeable with IPFS CIDs.
 
 No uploads have been performed by the preparation script. Share the image directory CID after step 2 so we can verify it and prepare/review the metadata before the second upload.
+
+## Current uploaded directory layout
+
+The user uploaded the `ipfs-upload` wrapper, so the image paths include `/images/`. Image #1 was confirmed to display in the user’s browser. To reproduce the prepared metadata:
+
+```sh
+python3 assets/scripts/prepare_ipfs.py --images-cid bafybeigubjamznw3cys7nnwrq5sclsxo73n6im3vf6ax4lwpkambolapju --images-path images
+```
+
+Upload **only** the generated `assets/ipfs-upload/metadata/` folder next. The image CID is not the metadata CID.

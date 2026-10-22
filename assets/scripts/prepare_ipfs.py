@@ -13,10 +13,15 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 ASSETS = ROOT / 'assets'
 parser = argparse.ArgumentParser(description=__doc__)
-parser.add_argument('--images-cid', help='Bare public IPFS directory CID containing 1.png through 10.png')
+parser.add_argument('--images-cid', help='Bare public IPFS directory CID')
+parser.add_argument('--images-path', default='', help='Optional subdirectory under the CID, e.g. images')
 args = parser.parse_args()
 if args.images_cid and not re.fullmatch(r'(Qm[1-9A-HJ-NP-Za-km-z]{44}|b[a-z2-7]{20,})', args.images_cid):
     parser.error('Supply a bare CID, not an ipfs:// URI, gateway URL, or directory path.')
+image_path = args.images_path.strip('/')
+if image_path and (not re.fullmatch(r'[A-Za-z0-9_/-]+', image_path) or '..' in image_path or '//' in image_path):
+    parser.error('Supply a simple relative subdirectory path, e.g. images.')
+image_prefix = f'{image_path}/' if image_path else ''
 collection = json.loads((ASSETS / 'collection.json').read_text())
 assert len(collection['items']) == 10 and collection['artist'] == 'hkarrach'
 assert {item['token_id'] for item in collection['items']} == set(range(1, 11))
@@ -40,11 +45,12 @@ if args.images_cid:
         data = json.loads((ASSETS / item['metadata']).read_text())
         assert data['artist'] == 'hkarrach' and '42' in data['name']
         assert {'trait_type': 'Artist', 'value': 'hkarrach'} in data['attributes']
-        data['image'] = f'ipfs://{args.images_cid}/{token}.png'
+        data['image'] = f'ipfs://{args.images_cid}/{image_prefix}{token}.png'
         (metadata / f'{token}.json').write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n')
 (output / 'preparation.json').write_text(json.dumps({
     'status': 'prepared_only_not_uploaded_or_verified',
     'images_directory_cid': args.images_cid,
+    'images_path': image_path,
     'items': records,
 }, indent=2) + '\n')
 print(f'Upload this images folder as a PUBLIC IPFS directory: {images}')

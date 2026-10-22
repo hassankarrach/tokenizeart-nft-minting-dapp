@@ -2,7 +2,7 @@
 
 An ERC-721 NFT project exploring original artwork, IPFS storage, verifiable ownership, and a planned wallet-connected minting interface.
 
-A ten-piece, choose-your-token collection is in development. Ten artwork/metadata drafts and a local browsing interface exist. `code/Art42.sol` implements public free ERC-721 minting for IDs 1–10, using a fixed IPFS metadata directory. Artist: **hkarrach**. There is no public deployment or mint yet.
+A ten-piece, choose-your-token collection is in development. Ten artwork/metadata drafts and a local browsing interface exist. `code/Art42.sol` implements public free ERC-721 minting for IDs 1–10, using a fixed IPFS metadata directory. Artist: **hkarrach**. Branded images and corrected metadata have been uploaded to IPFS; see [storage status](assets/ipfs-status.json). A local MetaMask deployment page is ready at `/deploy.html`. There is no public contract deployment or mint yet.
 
 ## Local contract development
 
@@ -12,6 +12,7 @@ Use Node 24 (`.nvmrc`):
 npm ci
 npm run compile
 npm test
+npm run prepare:deploy
 ```
 
 See [code/README.md](code/README.md) for contract policy, security behavior and tooling. The website remains a local preview with minting disabled. Start it with `python3 -m http.server 8080 --directory website/dist` and open http://localhost:8080.

@@ -8,7 +8,8 @@
   },
   "scripts": {
     "compile": "node deployment/compile.mjs",
-    "test": "node --test --test-isolation=none --test-concurrency=1 code/test/art42.test.mjs"
+    "test": "node --test --test-isolation=none --test-concurrency=1 code/test/art42.test.mjs",
+    "prepare:deploy": "node deployment/prepare-browser.mjs"
   },
   "dependencies": {
     "@openzeppelin/contracts": "5.4.0"
